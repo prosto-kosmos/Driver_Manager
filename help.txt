@@ -1,0 +1,2 @@
+download libmysql.dll -> SysWOW64
+SQLConnection -> params -> ServerCharSet = cp1251
